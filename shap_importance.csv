@@ -1,0 +1,4 @@
+Feature,Mean |SHAP|
+Rainfall_mm,1.1446436249105831
+Temperature_Celsius,0.15857726363524086
+Days_to_Harvest,0.08061343476072148
