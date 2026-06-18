@@ -1,4 +1,4 @@
- Crop Yield Prediction using Machine Learning
+MACHINE LEARNING-BASED CROP YIELD PREDICTION USING ENVIRONMENTAL AND REMOTE SENSING DATA 
 
 Author: Hafsa Saman   
 Institution:University of Agriculture Faisalabad
@@ -69,5 +69,3 @@ Libraries: pandas, numpy, scikit-learn, xgboost, shap, matplotlib, seaborn
 Full source code is available at:  
 [https://github.com/hafsa-saman786/Crop-yield-Prediction](https://github.com/hafsa-saman786/Crop-yield-Prediction
 
-**Hafsa Saman** — [Your Email]  
-**Saeed Rasheed (Supervisor)** — saeed.rasheed0211@gmail.com
